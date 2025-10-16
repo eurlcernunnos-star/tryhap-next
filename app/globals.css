@@ -1,2 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 :root { color-scheme: light; }
-html,body { margin:0; }
+.container-prose p { margin: .5rem 0; }
