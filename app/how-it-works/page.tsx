@@ -1,0 +1,2 @@
+export const metadata = { title: 'From idea to payout—on-chain and auditable – HAP' };
+export default function Page(){return (<section className="py-14 sm:py-20 border-b border-slate-200"><div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8"><h2 className="text-3xl sm:text-4xl font-bold">From idea to payout—on-chain and auditable</h2><div className="mt-6 container-prose text-slate-700 text-lg"><p>Define deliverables, submit work, multisig validates, payout from escrow.</p></div></div></section>)}
